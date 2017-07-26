@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\work\\apps\\demo-imlib-android-v2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rongcloud.png",
+        "source": "G:\\work\\apps\\demo-imlib-android-v2-master\\app\\src\\main\\res\\drawable\\ic_rongcloud.png"
+    },
+    {
+        "merged": "G:\\work\\apps\\demo-imlib-android-v2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_pressed.xml",
+        "source": "G:\\work\\apps\\demo-imlib-android-v2-master\\app\\src\\main\\res\\drawable\\item_pressed.xml"
+    },
+    {
+        "merged": "G:\\work\\apps\\demo-imlib-android-v2-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tile.9.png",
+        "source": "G:\\work\\apps\\demo-imlib-android-v2-master\\app\\src\\main\\res\\drawable\\tile.9.png"
+    }
+]

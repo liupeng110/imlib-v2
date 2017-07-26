@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_2e410efbf1b4ea59c66f9bf832f45871d65b715b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_2e45f0685e20d2ca2ed2a01f7d8c1a249af00d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\anzhuang\studio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c2edcc59a8e7623bc26f534f4a7c641c6cf5a237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_432d730ae21645956d8eac61e27166f27c576eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\exploded-aar\demo-imlib-android-v2-master\IMLib\unspecified\jars\libs\Rong_IMLib_v2_7_3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="156003e12478796ad4d134b5bb4cb73a04bcce32">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\Rong_IMLib_v2_7_3_9bdd5ae8d955d7d12e3513823b21f84281f77b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_c9ab47341ab2bf255ab469e8db65c1bfac472919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_2c3a494078ef77d60e2b799f65069bed36311b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\exploded-aar\demo-imlib-android-v2-master\IMLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="52036fe8cade7c418a120dedd76dc2c2106b89bb">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\demo-imlib-android-v2-master-IMLib-unspecified_db5a17ba3211c3cf59e82373fa43eac3298f0ef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_1e1a6b3578fb20b9616677659960c9920b3aff49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\work\apps\demo-imlib-android-v2-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_bb132fd80ddf7772b7a4f4899934caa69c75f85e.jar" />
+    </item>
+
+</items>
